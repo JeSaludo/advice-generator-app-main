@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/JeSaludo/advice-generator-app-main](https://github.com/JeSaludo/advice-generator-app-main)
+- Live Site URL: [https://advice-generator-app-main-two-gamma.vercel.app](https://advice-generator-app-main-two-gamma.vercel.app)
 
 ## My process
 
